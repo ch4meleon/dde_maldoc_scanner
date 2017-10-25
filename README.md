@@ -8,7 +8,7 @@ python dde_maldoc_scanner.py -f malicious.doc
 ```
 
 ## Screenshots
-<img align="center" src="./Screenshot.PNG" alt="Screenshot #1" />
+<img align="center" src="./Screenshot.png" alt="Screenshot #1" />
 
 ## Contact
 ch4meleon@protonmail.com
